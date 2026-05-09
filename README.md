@@ -30,6 +30,13 @@ This project focuses on clear navigation, attractive UI design, and practical mo
 - CardView
 - Intent
 - Fragment / Activity-based navigation
+- 
+## How to Run the Project
+
+1. Download or clone this repository.
+
+```bash
+git clone https://github.com/monali-pabasara/the-platinum-loft-android-app.git
 
 ## My Role
 
