@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- ~53% purple overlay so white text is readable on the photo -->
+    <solid android:color="#884C2FBF"/>
+</shape>

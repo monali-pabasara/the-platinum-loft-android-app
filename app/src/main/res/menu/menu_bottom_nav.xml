@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/tab_menu"    android:title="Menu"    android:icon="@android:drawable/ic_menu_agenda" />
+    <item android:id="@+id/tab_cart"    android:title="Cart"    android:icon="@android:drawable/ic_menu_add" />
+    <item android:id="@+id/tab_reserve" android:title="Reserve" android:icon="@android:drawable/ic_menu_my_calendar" />
+    <item android:id="@+id/tab_contact" android:title="Contact" android:icon="@android:drawable/ic_menu_send" />
+    <item android:id="@+id/tab_track"   android:title="Track"   android:icon="@android:drawable/ic_menu_mylocation" />
+</menu>
