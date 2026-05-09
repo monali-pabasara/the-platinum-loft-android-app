@@ -10,12 +10,13 @@ This project focuses on clear navigation, attractive UI design, and practical mo
 
 ## Features
 
-- User-friendly home screen
+- User-friendly login/home screen
 - Digital food menu
 - Food item details
 - Add to cart function
 - Cart total calculation
 - Table reservation form
+- Reservation confirmation screen
 - Order tracking screen
 - Contact page with phone and email options
 - Clean and simple Android UI design
@@ -30,13 +31,30 @@ This project focuses on clear navigation, attractive UI design, and practical mo
 - CardView
 - Intent
 - Fragment / Activity-based navigation
-- 
+- Gradle
+
 ## How to Run the Project
 
 1. Download or clone this repository.
 
 ```bash
 git clone https://github.com/monali-pabasara/the-platinum-loft-android-app.git
+```
+
+2. Open the project in Android Studio.
+
+3. Wait for Gradle to sync successfully.
+
+4. Connect an Android device or start an emulator.
+
+5. Click the Run button to launch the application.
+
+## Requirements
+
+- Android Studio
+- Java
+- Gradle
+- Android Emulator or physical Android device
 
 ## My Role
 
@@ -44,9 +62,9 @@ I designed and developed the mobile application, including the user interface, s
 
 ## Screenshots
 
-| Home Screen | Menu Screen | Food Detail Screen |
-|------------|-------------|-------------------|
-| ![Home Screen](screenshots/home-screen.png) | ![Menu Screen](screenshots/menu-screen.png) | ![Food Detail Screen](screenshots/food-detail-screen.png) |
+| Home Screen | Main Menu Screen | Food Menu Screen |
+|------------|------------------|------------------|
+| ![Home Screen](screenshots/home-screen.png) | ![Main Menu Screen](screenshots/menu-screen.png) | ![Food Menu Screen](screenshots/food-detail-screen.png) |
 
 | Cart Screen | Reservation Screen | Reservation Confirmation |
 |------------|--------------------|--------------------------|
@@ -58,7 +76,9 @@ I designed and developed the mobile application, including the user interface, s
 
 ## What I Learned
 
-Through this project, I improved my understanding of Android mobile application development using Java and XML. I learned how to create multiple screens, design user-friendly layouts, manage user input, display menu items, and connect different parts of an application together.
+Through this project, I improved my understanding of Android mobile application development using Java and XML. I learned how to create multiple screens, design user-friendly layouts, manage user input, display menu items, calculate cart totals, and connect different parts of an application together.
+
+I also gained practical experience in testing the application using the Android emulator and organizing a project professionally for GitHub.
 
 ## Future Improvements
 
@@ -67,6 +87,7 @@ Through this project, I improved my understanding of Android mobile application 
 - Add real-time order status updates
 - Add admin panel for restaurant staff
 - Improve UI animations and responsiveness
+- Add user profile and order history features
 
 ## Author
 
