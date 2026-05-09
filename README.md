@@ -37,15 +37,17 @@ I designed and developed the mobile application, including the user interface, s
 
 ## Screenshots
 
-Screenshots will be added here.
+| Home Screen | Menu Screen | Food Detail Screen |
+|------------|-------------|-------------------|
+| ![Home Screen](screenshots/home-screen.png) | ![Menu Screen](screenshots/menu-screen.png) | ![Food Detail Screen](screenshots/food-detail-screen.png) |
 
-| Home Screen | Menu Screen | Cart Screen |
-|------------|-------------|-------------|
-| Add screenshot | Add screenshot | Add screenshot |
+| Cart Screen | Reservation Screen | Reservation Confirmation |
+|------------|--------------------|--------------------------|
+| ![Cart Screen](screenshots/cart-screen.png) | ![Reservation Screen](screenshots/reservation-screen.png) | ![Reservation Confirmation](screenshots/reservation-confirmation-screen.png) |
 
-| Reservation Screen | Order Tracking | Contact Screen |
-|--------------------|----------------|----------------|
-| Add screenshot | Add screenshot | Add screenshot |
+| Order Tracking | Contact Screen |
+|---------------|----------------|
+| ![Order Tracking](screenshots/order-tracking-screen.png) | ![Contact Screen](screenshots/contact-screen.png) |
 
 ## What I Learned
 
